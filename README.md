@@ -1,4 +1,4 @@
-testrepo
+test repo for ccsp content
 ========
 
-test repository
+this is a test repo for ccsp content...
